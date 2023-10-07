@@ -75,7 +75,6 @@ the HR System API provides functionalities for managing job candidates, allowing
 
 - **URL:** `/candidates/register/`
 - **Method:** POST
-- **Headers:** `Content-Type: multipart/form-data`
 - **Parameters:**
   - `full_name` (string): Candidate's full name.
   - `date_of_birth` (string): Candidate's date of birth (YYYY-MM-DD).
